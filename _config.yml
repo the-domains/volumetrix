@@ -1,0 +1,14 @@
+layout_spectrum: 0.11484556086361408
+typography_spectrum: 0.604009488131851
+color:
+  brandStrength: 0.22201657225377858
+  lightness: 0.10349605069495738
+  saturation: 0.8975740091409534
+  rhythmicContrast: 0.17497893795371056
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Volumetrix
